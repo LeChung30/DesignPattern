@@ -1,6 +1,6 @@
 package bridge;
 
 public interface IFood {
-    double calculatePrize(int numberOf);
+    double calculatePrize(int quantity);
     String getName();
 }

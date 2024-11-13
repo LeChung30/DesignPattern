@@ -1,4 +1,4 @@
-package Decorator;
+package decorator;
 
 public class FoodDecorator implements IFood {
     private IFood food;

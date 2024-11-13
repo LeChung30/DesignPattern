@@ -15,5 +15,5 @@ public abstract class Food {
         this.iFood = iFood;
     }
 
-    public abstract void details(int numberOf);
+    public abstract void details(int quantity);
 }

@@ -1,4 +1,4 @@
-package Decorator;
+package decorator;
 
 public class DrinkDecorator extends FoodDecorator {
     private String name;

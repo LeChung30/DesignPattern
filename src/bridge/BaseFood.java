@@ -26,7 +26,7 @@ public class BaseFood implements IFood {
     }
 
     @Override
-    public double calculatePrize(int numberOf) {
-        return numberOf * price;
+    public double calculatePrize(int quantity) {
+        return quantity * price;
     }
 }
